@@ -8,5 +8,5 @@ System Optimizer is a windows XP system cleaner, it cleans Temporary files, hist
 form history etc.,
 
 
-Worte this piece during my graduation when I learned Java Swing first time. Never use windows afterthat,
-so no new change to suite latest windows edition.
+Worte this piece during my graduation when I learned `Java Swing` first time. Never use windows afterthat,
+no new change to suite latest windows edition.
